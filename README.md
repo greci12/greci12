@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @greci12
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning computer science
